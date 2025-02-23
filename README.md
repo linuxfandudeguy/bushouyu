@@ -1,4 +1,5 @@
 # bushouyu   
+
 (<ruby>
   咅<rp>(</rp><rt>pǒu</rt><rp>)</rp>
   阝<rp>(</rp><rt>yì</rt><rp>)</rp>
@@ -6,6 +7,8 @@
   讠<rp>(</rp><rt>yán</rt><rp>)</rp>
   吾<rp>(</rp><rt>wú</rt><rp>)</rp>
 </ruby>)
+
+***YT VID COMING SOON***
 
 To install dependencies:
 

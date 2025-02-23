@@ -1,12 +1,11 @@
-# bushouyu
-
- <ruby>
+# bushouyu   
+(<ruby>
   咅<rp>(</rp><rt>pǒu</rt><rp>)</rp>
   阝<rp>(</rp><rt>yì</rt><rp>)</rp>
   首<rp>(</rp><rt>shǒu</rt><rp>)</rp>
   讠<rp>(</rp><rt>yán</rt><rp>)</rp>
   吾<rp>(</rp><rt>wú</rt><rp>)</rp>
-</ruby>
+</ruby>)
 
 To install dependencies:
 

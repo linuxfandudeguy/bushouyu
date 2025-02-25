@@ -16,10 +16,12 @@ const isReverse = args.includes('--reverse');
 function getRadicalBreakdown(char: string) {
   let radicalEntry = radicals.find((r: any) => r.radical === char);
   if (radicalEntry) {
+    // No need to remove spaces if they're intended as word separators
     return { breakdown: radicalEntry.radical, pronunciation: radicalEntry.pinyin || "" };
   }
   let dictEntry = dictionary[char];
   if (dictEntry) {
+    // Use the decomposition as-is, after sanitizing only the ideographic description characters.
     let breakdown = dictEntry.decomposition || char;
     let pronunciation = breakdown
       .split("")
@@ -30,17 +32,17 @@ function getRadicalBreakdown(char: string) {
       .filter(p => p)
       .join("");
     return { 
-      breakdown: sanitize(breakdown).replace(/\s+/g, ''), 
-      pronunciation: pronunciation.replace(/\s+/g, '')
+      breakdown: sanitize(breakdown).trim(), 
+      pronunciation: pronunciation.trim()
     };
   }
-  return { breakdown: sanitize(char).replace(/\s+/g, ''), pronunciation: "" };
+  return { breakdown: sanitize(char).trim(), pronunciation: "" };
 }
 
 // Function to translate Bushouyu back to Chinese
 function translateBack(bushouyu: string) {
   for (let [char, entry] of Object.entries(dictionary)) {
-    if (sanitize(entry.decomposition || char).replace(/\s+/g, '') === bushouyu) {
+    if (sanitize(entry.decomposition || char).trim() === bushouyu) {
       return char;
     }
   }
@@ -52,7 +54,7 @@ if (!inputText) {
   process.exit(1);
 }
 
-const sanitizedText = sanitize(inputText);
+const sanitizedText = sanitize(inputText).trim();
 
 if (isReverse) {
   const reversedTranslation = translateBack(sanitizedText);
@@ -69,11 +71,12 @@ const results = sanitizedText.split("").map(char => {
 console.log("\nBushouyu\n(咅阝首 讠吾)\n");
 console.log(results.join("\n"));
 
-// Display the total translation in Bushouyu
+// Display the total translation in Bushouyu.
+// We join breakdown segments with a space to keep word boundaries.
 const totalBreakdown = results
   .map(r => r.split(" → ")[1].split(" ")[0])
-  .join("");
+  .join(" ");
 const totalPronunciation = results
   .map(r => r.match(/\((.*?)\)/)?.[1] || "")
-  .join("");
+  .join(" ");
 console.log(`\nFull Translation: ${totalBreakdown} (${totalPronunciation})\n`);

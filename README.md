@@ -29,8 +29,76 @@ This project was created using `bun init` in bun v1.2.2. [Bun](https://bun.sh) i
 this is an interesting artifact found in the dictionary.  
 the ipa schwa symbol (ə) unexpectedly maps to the radical breakdown for "<ruby>𰻞<rt>"biang"</rt></ruby>" (**⿺‌辶⿱穴⿱⿲月⿱⿲幺言幺⿲長馬長刂心**).  
 
-this is likely due to how the database was structured and how certain characters were categorized and is also likely an artifact from the original project i took the dictionary from. 
+this is likely due to how the database was structured and how certain characters were categorized and is also an artifact from the original project i took the dictionary from. 
  
+```json
+  "ə": {
+    "radical": "⺀",
+    "decomposition": "⿺辶⿱穴⿱⿲月⿱⿲幺言幺⿲長馬長刂心",
+    "matches": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+```
+
 it remains in the system as a documented anomaly for those curious.  
 
 > **biang might not show up for some people because of the unicode character being relatively new due to how complicated it is**

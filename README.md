@@ -123,7 +123,7 @@ key:
 
 (***mùgèn shǒujū hùjīn yuè  shǐkǒu báisháo zhōukàng xuègōng shuǐqù bèidāo  mìchóng chóngféng yī dīngkǒu sībǐbǐ fēi xíng   gàibǐ báisháo zhīyǔ páng dàdiǎn xiǎo  wú shuǐqù shǒutuō zǒujǐ gàibǐ bàn bàn báisháo shēn rénběn   jì ránhuǒ  mìchóng chóngféng chuòbù rìpǐ rényún fēi   wéidà diǎnlìdiǎn mìchóng chóngféng shǒu yī cáitǔ piěha rén mǐdà yánrén diǎnlìdiǎn yī dīngkǒu sībǐbǐ báisháo yīkǒujìgōu xīnqīng*** )
 
-> **"According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don’t care what humans think is impossible."**
+> *"According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don’t care what humans think is impossible."*
 
 # credits
 

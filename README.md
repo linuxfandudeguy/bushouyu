@@ -128,7 +128,15 @@ key:
 > *"According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don’t care what humans think is impossible."*
 ---
 
-this is currently unfinishedas of right now
+>**亻吏 用  B u n  一廾 ？又 、 氵则 讠式 、 辶云 行 禾口 扌丁 勹巳  J a v a S c r i p t  ？一  T y p e S c r i p t  工页 目 。  B u n  日疋 一 士示欠 入玉 亼口 一 白勺  J a v a S c r i p t  辶** >**云 行 日寸 ？又 工 目一八 勹巳 ， ？一 丶力丶 高 忄生 厶⺼匕匕 讠殳 讠十 ， 冂人 罒直 扌丁 勹巳 口口犬口口 、 氵则 讠式 辶云 行 口口犬口口 ？人 ？又 ？一  N o d e . j s  丷彐禾禾 宀谷 白勺 勹巳 ⺮官**
+>**王里 口口犬口口 。  B u n  白勺 目 木示 日疋 宀头 王见  1 0 0 %  白勺  N o d e . j s  丷彐禾禾 宀谷 忄生 .**
+
+
+(***rénlì yòng      yīgǒng yòu  shuǐzé yánshì  chuòyún xíng hékǒu shǒudīng bāosì             yī             gōngyè mù       rìpǐ yī shìshìqiàn rùyù jíkǒu yī báisháo             chuòyún xíng rìcùn yòu gōng mùyībā bāosì  yī diǎnlìdiǎn gāo xīnshēng sībǐbǐ yánshū yánshí  jiǒngrén wǎngzhí shǒudīng bāosì kǒukǒuquǎnkǒukǒu  shuǐzé yánshì chuòyún xíng kǒukǒuquǎnkǒukǒu rén yòu yī          hajìhéhé gàigǔ báisháo bāosì zhúguān wánglǐ kǒukǒuquǎnkǒukǒu       báisháo mù mùshì rìpǐ gàitóu wángjiàn       báisháo          hajìhéhé gàigǔ xīnshēng*** )
+
+>* Develop, test, run, and bundle JavaScript & TypeScript projects—all with Bun. Bun is an all-in-one JavaScript runtime & toolkit designed for speed, complete with a bundler, test runner, and Node.js-compatible package manager. Bun aims for 100% Node.js compatibility.*
+
+this is currently unfinished as of right now
 
 # credits
 

@@ -110,7 +110,7 @@ key:
 
 - > **blockquote bold** - orthographic writing (the chinese characters)
 
-- (***italic bold parentheses**) - pinyin
+- (***italic bold parentheses***) - pinyin
 
 - > *blockquote italic* - english translation
 

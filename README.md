@@ -31,7 +31,7 @@ the ipa schwa symbol (ə) unexpectedly maps to the radical breakdown for "<ruby>
 this is likely due to how the database was structured and how certain characters were categorized.  
 it remains in the system as a documented anomaly for those curious.  
 
-**biang might not show up for some people because of the unicode character being relatively new due to how complicated it is**
+> **biang might not show up for some people because of the unicode character being relatively new due to how complicated it is**
 
 <ruby>ə<rt>"uh"</rt></ruby> → <ruby>⿺‌辶⿱穴⿱⿲月⿱⿲幺言幺⿲長馬長刂心<rt>"biang"</rt></ruby>
 

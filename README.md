@@ -105,6 +105,12 @@ it remains in the system as a documented anomaly for those curious.
 
 <ruby>ə<rt>"uh"</rt></ruby> → **<ruby>⿺‌辶⿱穴⿱⿲月⿱⿲幺言幺⿲長馬長刂心<rt>"biang"</rt></ruby>**
 
+# samples
+
+> **木艮 扌居 户斤 ？月 ？ 矢口 白勺 舟亢 穴工 氵去 贝刂 ， 宓虫 虫夆 一？ 丁口 厶⺼匕匕 飞 行 。  宀匕 白勺 支羽 ⺼旁 大丶 小 ， 无 氵去 扌乇 走己 宀匕 ⺼半 ⺼半 白勺 身 亻本 。  ⺌彐 肰灬 ， 宓虫 虫夆** > **辶不 日疋 人云 飞 ，  囗大 丶力丶 宓虫 虫夆 扌？ 一？ 才土 丿？丷 人 米大 讠人 丶力丶 一？ 丁口 厶⺼匕匕 白勺 一口彐亅 忄青 。**
+
+(mùgèn shǒujū hùjīn yuè  shǐkǒu báisháo zhōukàng xuègōng shuǐqù bèidāo  mìchóng chóngféng yī dīngkǒu sībǐbǐ fēi xíng   gàibǐ báisháo zhīyǔ páng dàdiǎn xiǎo  wú shuǐqù shǒutuō zǒujǐ gàibǐ bàn bàn báisháo shēn rénběn   jì ránhuǒ  mìchóng chóngféng chuòbù rìpǐ rényún fēi   wéidà diǎnlìdiǎn mìchóng chóngféng shǒu yī cáitǔ piěha rén mǐdà yánrén diǎnlìdiǎn yī dīngkǒu sībǐbǐ báisháo yīkǒujìgōu xīnqīng )
+
 # credits
 
 https://github.com/eleanormally/hanziyu/tree/main for the Dictionary file and inspiration for this whole project in general

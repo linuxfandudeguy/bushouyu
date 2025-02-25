@@ -1,4 +1,6 @@
 # bushouyu   
+![Bushouyu Linguistic Seal](./assets/chinese_seal.png)
+
 
 (or also called <ruby>
   咅<rp>(</rp><rt>pǒu</rt><rp>)</rp>

@@ -10,7 +10,7 @@
   吾<rp>(</rp><rt>wú</rt><rp>)</rp>
 </ruby> in the language)
 
-***YT VID COMING SOON***
+***YT VID WORK IN PROGRESS***
 
 To install dependencies:
 
